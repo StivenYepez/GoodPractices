@@ -12,7 +12,7 @@
         console.log({actorId });
     }
     interface MovieData{
-        cast:        string[]
+        cast:        string[],
         description: string, 
         rating:      number,
         title:       string,
